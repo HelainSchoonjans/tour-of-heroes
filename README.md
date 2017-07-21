@@ -29,4 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 # TODO
-Continue the exercises [here](https://angular.io/tutorial/toh-pt3)
+Continue the exercises [here](https://angular.io/guide/architecture)
+
+# Awesome
+
+Some [style guide](https://angular.io/guide/styleguide) 
